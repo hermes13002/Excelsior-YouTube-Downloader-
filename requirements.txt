@@ -1,0 +1,4 @@
+Python=>3.6
+Kivy==2.1.0
+kivyMD==0.104.2
+pytube==12.1.0
